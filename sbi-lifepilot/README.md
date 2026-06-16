@@ -250,9 +250,9 @@ Onboarding  Reduction   Login ↑     Unlocked/month
 
 ---
 
-## 👩‍💻 Team
+## 👩‍💻 
 
-**Team LifePilot** — SBI Innovate Hackathon 2025
+**PAKHI SAXENA** — SBI Innovate Hackathon 2025
 
 ---
 
