@@ -250,7 +250,7 @@ Onboarding  Reduction   Login ↑     Unlocked/month
 
 ---
 
-## 👩‍💻 Creater
+## 👩‍💻 CREATED BY
 
 **PAKHI SAXENA** — SBI Innovate Hackathon 2025
 
